@@ -67,7 +67,7 @@ El sistema muestra un resumen del pedido y su tiempo estimado de entrega por con
 ## Instrucciones para clonar y ejecutar el proyecto
 1. Clonar el repositorio desde GitHub.
 ```bash
-Git clone [codigo]
+Git clone [https://github.com/monicafigueroaduoc/SpeedFastSemana2.git]
 ```
 2. Abre el proyecto en IntelliJ IDEA.
 3. Ejecutar la clase com.duoc.Main
